@@ -24,7 +24,8 @@ export default function Hero() {
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-8">
               Software Engineer with strong backend expertise in Python, Django,
-              Node.js, and a good grasp of frontend technologies
+              Node.js, and a good grasp of frontend technologies like Next.js
+              and React.js
             </p>
           </motion.div>
 

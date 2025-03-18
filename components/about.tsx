@@ -48,9 +48,9 @@ export default function About() {
               <CardContent className="p-6">
                 <h3 className="text-2xl font-bold mb-4">Software Engineer</h3>
                 <p className="text-muted-foreground mb-4">
-                  I'm a passionate Software Engineer with over 4 years of
-                  experience, specializing in backend development. Currently
-                  working at Aimedis in Dubai, I excel in building robust server
+                  I'm a passionate Software Engineer with 5 years of experience,
+                  specializing in backend development. Currently working at
+                  Aimedis in Dubai, I excel in building robust server
                   applications using Django, Python, Node.js, and various
                   database technologies, while also being proficient in frontend
                   development with React and Next.js.
@@ -73,8 +73,8 @@ export default function About() {
                   </div>
                   <div>
                     <p className="font-medium">Phone:</p>
-                    <p className="text-muted-foreground">+971544769043</p>
                     <p className="text-muted-foreground">+919554694437</p>
+                    <p className="text-muted-foreground">+971544769043</p>
                   </div>
                   <div>
                     <p className="font-medium">Email:</p>
